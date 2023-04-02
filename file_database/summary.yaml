@@ -1,0 +1,16 @@
+Anry_404:
+  Dhkdel: -128.66
+  Dudashvili_Vladislav: 50.0
+  cghael: 38.75
+Dhkdel:
+  Anry_404: 128.66
+  Dudashvili_Vladislav: 177.66
+  cghael: 166.41
+Dudashvili_Vladislav:
+  Anry_404: -50.0
+  Dhkdel: -177.66
+  cghael: -11.25
+cghael:
+  Anry_404: -38.75
+  Dhkdel: -166.41
+  Dudashvili_Vladislav: 11.25
